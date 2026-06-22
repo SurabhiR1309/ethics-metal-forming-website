@@ -5,7 +5,7 @@ export default function About() {
       <div className="left">
         <div className="about-machine-layout">
           <div className="machine-card top-left">
-            <img src="public/images/product1.png" alt="Hydraulic Pushbar" />
+            <img src="/images/product1.png" alt="Hydraulic Pushbar" />
           </div>
 
           <div className="machine-card top-right">
