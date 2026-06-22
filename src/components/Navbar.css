@@ -20,19 +20,19 @@
 }
 
 .nav-links li a {
-  color: white;
+  color: #0f172a;
   text-decoration: none;
   font-weight: 500;
 }
 
 .nav-links li a:hover {
-  color: #66d3ff;
+  color: #0f172a;
 }
 
 .hamburger {
   display: none;
   font-size: 30px;
-  color: white;
+  color: #0f172a;
   cursor: pointer;
 }
 
