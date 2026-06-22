@@ -7,7 +7,7 @@ export default function Navbar() {
   return (
     <nav className="navbar">
       <div className="logo">
-        <img src="/logo.png" alt="ETHICS Logo" />
+        <img src="/LOGO.png" alt="ETHICS Logo" />
       </div>
 
       <div
